@@ -1,8 +1,10 @@
-- 👨‍ ‍Hernan, tenho 21 anos (Salvador - BA)
+- 👨‍ ‍Hernan, tenho 21 anos.
+- Sou de Salvador - BA mas moro atualmente em Paraisópolis - MG.
 - 📘 Cursando Analise e desenvolvimento de sistemas
 - 👨‍🎓 Estudante Full Stack
 - 🌱 Estudando Web3 e o mundo das criptomoedas.
 - 📫 Contate-me no email: hernanbatista03@gmail.com
+- Programador em World Stream Finance
 - *Estou sempre em busca de novos conhecimentos*
 
  <div>
@@ -26,9 +28,9 @@
 - Estrutura de dados
 - Git
 - Backend
-  - NodeJS
+  - Node.js
   - PHP 7
-  - SQL (MySQL, Postgres)
+  - SQL (MySQL, PostgreSQL, SQLite)
 
 - Frontend
   - HTML 5
@@ -40,9 +42,10 @@
   - React.js
 
 ## 👨‍🎓 No momento estou aprendendo: 
-
+ 
 - TDD
 - Testes Automatizados
+- AWS
 - Firebase
 - Docker
 
