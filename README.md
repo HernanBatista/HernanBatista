@@ -1,5 +1,5 @@
 - 👨‍ ‍Hernan, tenho 21 anos.
-- Sou de Salvador - BA mas moro atualmente em Paraisópolis - MG.
+- ✈️ Sou de Salvador - BA mas moro atualmente em Paraisópolis - MG.
 - 📘 Cursando Analise e desenvolvimento de sistemas
 - 👨‍🎓 Estudante Full Stack
 - 🌱 Estudando Web3 e o mundo das criptomoedas.
