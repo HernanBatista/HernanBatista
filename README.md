@@ -1,8 +1,8 @@
 - 👨‍ ‍Hernan, tenho 21 anos.
-- ✈️ Sou de Salvador - BA mas moro atualmente em Paraisópolis - MG.
-- 📘 Cursando Analise e desenvolvimento de sistemas
+- ✈️ Sou de Salvador - BA, mas moro atualmente em Paraisópolis - MG.
+- 📘 Cursando Análise e desenvolvimento de sistemas
 - 👨‍🎓 Estudante Full Stack
-- 🌱 Estudando Web3 e o mundo das criptomoedas.
+- 🌱 Estudando Moralis Web3 e o mundo das criptomoedas.
 - 📫 Contate-me no email: hernanbatista03@gmail.com
 - Programador em World Stream Finance
 - *Estou sempre em busca de novos conhecimentos*
