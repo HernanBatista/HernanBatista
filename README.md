@@ -4,8 +4,9 @@
 - 👨‍🎓 Estudante Full Stack
 - 🌱 Estudando Moralis Web3 e o mundo das criptomoedas.
 - 📫 Contate-me no email: hernanbatista03@gmail.com
-- Programador em World Stream Finance
-- *Estou sempre em busca de novos conhecimentos*
+
+- 👨‍💻 Programador em World Stream Finance
+- 🚀 *Estou sempre em busca de novos conhecimentos*
 
  <div>
   <a href="https://github.com/hernanb13">
