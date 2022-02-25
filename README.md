@@ -38,9 +38,9 @@
   - CSS 3
   - Bootstrap 5
   - JavaScript
+  - React.js
   - TypeScript
   - Next.js
-  - React.js
 
 ## 👨‍🎓 No momento estou aprendendo: 
  
