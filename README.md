@@ -1,11 +1,11 @@
-- 👨‍ ‍Hernan, tenho 21 anos.
-- ✈️ Sou de Salvador - BA, mas moro atualmente em Paraisópolis - MG.
+- 👨‍ ‍Hernan, tenho 22 anos.
+- ✈️ Sou de Salvador - BA.
 - 📘 Cursando Análise e desenvolvimento de sistemas
-- 👨‍🎓 Estudante JavaScript Full Stack
-- 🌱 Estudando Moralis Web3 e o mundo das criptomoedas.
+- 👨‍🎓 Desenvolvedor JavaScript Full Stack.
+- 🌱 Desenvolvedor Web3.
 - 📫 Contate-me no email: hernanbatista03@gmail.com
 
-- 👨‍💻 Programador em World Stream Finance
+- 👨‍💻 Desenvolvedor Chefe em NFTapp & World Stream Finance
 - 🚀 *Estou sempre em busca de novos conhecimentos*
 
  <div>
@@ -29,6 +29,7 @@
 - Estrutura de dados
 - Git
 - Backend
+  - Moralis Web3
   - Node.js
   - PHP 7
   - SQL (MySQL, PostgreSQL, SQLite)
@@ -48,7 +49,6 @@
 - Testes Automatizados
 - AWS
 - Firebase
-- Docker
 
 ## 📫 Contato: 
 <div>
