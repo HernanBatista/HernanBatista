@@ -51,7 +51,7 @@
 
 ## 📫 Contato: 
 <div>
-<a href="https://www.linkedin.com/in/">
+<a href="https://www.linkedin.com/in/hernan-batista-6b2052206">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 <a href="mailto:hernanbatista03@gmail.com">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/gmail.svg" />
