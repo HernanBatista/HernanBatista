@@ -4,7 +4,7 @@
 - 👨‍🎓 Desenvolvedor Front-end.
 - 📫 Contate-me no email: hernanbatista03@gmail.com
 
-- 👨‍💻 Desenvolvedor Chefe em diversas empresas DEFI. (WSF, NFTAPP, ASTER)
+- 👨‍💻 Desenvolvedor e empreendedor em <a href="https://nftapp.finance/">NFTapp</a>.
 - 🚀 *Estou sempre em busca de novos conhecimentos*
 
  <div>
@@ -30,8 +30,7 @@
 - Backend
   - Moralis Web3
   - Node.js
-  - PHP 7
-  - SQL (MySQL, PostgreSQL, SQLite)
+  - PHP
 
 - Frontend
   - HTML 5
@@ -41,6 +40,9 @@
   - React.js
   - TypeScript
   - Next.js
+ 
+- Bancos de dados
+  - SQL (MySQL, PostgreSQL, SQLite)
 
 ## 👨‍🎓 No momento estou aprendendo: 
  
@@ -48,6 +50,7 @@
 - Testes Automatizados
 - AWS
 - Firebase
+- Express
 
 ## 📫 Contato: 
 <div>
