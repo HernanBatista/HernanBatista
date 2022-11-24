@@ -1,7 +1,7 @@
 - 👨‍ ‍Hernan, tenho 22 anos.
 - ✈️ Morando atualmente em Salvador - BA.
 - 🌱 Desenvolvedor Web3.
-- 👨‍🎓 Desenvolvedor JavaScript Full Stack.
+- 👨‍🎓 Desenvolvedor Front-end.
 - 📫 Contate-me no email: hernanbatista03@gmail.com
 
 - 👨‍💻 Desenvolvedor Chefe em diversas empresas DEFI. (WSF, NFTAPP, ASTER)
