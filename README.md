@@ -1,10 +1,9 @@
-- 👨‍ ‍Hernan, tenho 22 anos.
-- ✈️ Morando atualmente em Salvador - BA.
+- 👨‍ ‍Hernan, tenho 23 anos.
+- ✈️ Morando atualmente em Sergipe.
 - 🌱 Desenvolvedor Web3.
 - 👨‍🎓 Desenvolvedor Front-end.
 - 📫 Contate-me no email: hernanbatista03@gmail.com
 
-- 👨‍💻 Desenvolvedor e empreendedor em <a href="https://nftapp.finance/">NFTapp</a>.
 - 🚀 *Estou sempre em busca de novos conhecimentos*
 
  <div>
